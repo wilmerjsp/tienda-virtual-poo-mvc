@@ -1,6 +1,7 @@
 <?php
 
 require_once 'config/config.php';
+require_once 'helpers/helpers.php';
 
 $url = !empty($_GET['url']) ? $_GET['url'] : 'home/home';
 
