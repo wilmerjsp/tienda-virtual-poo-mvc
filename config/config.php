@@ -1,6 +1,6 @@
 <?php
 
-const BASE_URL = "https://tienda_virtual.dev/";
+const BASE_URL = "https://tienda_virtual.dev";
 
 date_default_timezone_set('America/Bogota');
 

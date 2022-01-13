@@ -4,6 +4,10 @@ function baseUrl(){
     return BASE_URL;
 }
 
+function media(){
+    return BASE_URL."/assets";
+}
+
 function dep($data){
     $fotmat = print_r('<pre>');
     $fotmat .= print_r($data);

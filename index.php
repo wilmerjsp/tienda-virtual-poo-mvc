@@ -26,10 +26,4 @@ require_once "lib/core/autoload.php";
 
 #load
 require_once "lib/core/load.php";
-
-// print_r ("Controller: {$controller} - Method: {$method} - Parameters: {$params}\n");
-
-// print_r($arrayUrl);
-// echo $url;
-
 ?>
